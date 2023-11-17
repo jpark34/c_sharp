@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dZhYS7NjPYZyCUtIZpATv4fw8FnmVVp9YMzujlTW3gx3uEI5qU6yZ9sJDKOFnHdFo4X5n6Y5wzwiwSBcmPks+w==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\c_sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jarre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\jarre\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\jarre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\jarre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
