@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\c_sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "c:\\Code\\c_sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Code\\c_sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "c:\\Code\\c_sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\c_sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "c:\\Code\\c_sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Code\\c_sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "c:\\Code\\c_sharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\jarre\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\c_sharp\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "c:\\Code\\c_sharp\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jarre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,9 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "default"
         }
       },
       "frameworks": {
