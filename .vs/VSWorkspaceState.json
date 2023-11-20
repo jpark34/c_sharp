@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\dotnet_youtube"
+    "\\dotnet_youtube",
+    "\\Hello",
+    "\\Hello\\Hello_World"
   ],
-  "SelectedNode": "\\dotnet_youtube",
+  "SelectedNode": "\\Hello\\Hello_World\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
