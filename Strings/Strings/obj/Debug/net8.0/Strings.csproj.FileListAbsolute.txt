@@ -1,0 +1,15 @@
+c:\Code\c_sharp\Strings\Strings\bin\Debug\net8.0\Strings.exe
+c:\Code\c_sharp\Strings\Strings\bin\Debug\net8.0\Strings.deps.json
+c:\Code\c_sharp\Strings\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+c:\Code\c_sharp\Strings\Strings\bin\Debug\net8.0\Strings.dll
+c:\Code\c_sharp\Strings\Strings\bin\Debug\net8.0\Strings.pdb
+c:\Code\c_sharp\Strings\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+c:\Code\c_sharp\Strings\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+c:\Code\c_sharp\Strings\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+c:\Code\c_sharp\Strings\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+c:\Code\c_sharp\Strings\Strings\obj\Debug\net8.0\Strings.sourcelink.json
+c:\Code\c_sharp\Strings\Strings\obj\Debug\net8.0\Strings.dll
+c:\Code\c_sharp\Strings\Strings\obj\Debug\net8.0\refint\Strings.dll
+c:\Code\c_sharp\Strings\Strings\obj\Debug\net8.0\Strings.pdb
+c:\Code\c_sharp\Strings\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+c:\Code\c_sharp\Strings\Strings\obj\Debug\net8.0\ref\Strings.dll
