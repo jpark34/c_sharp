@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello_World", "..\Hello\Hel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "..\Strings\Strings\Strings.csproj", "{FE5A407C-70D6-482E-BB10-3EE4E113C5BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReplace", "..\dotnet_youtube\StringReplace\StringReplace.csproj", "{F1507190-1AAE-4965-A9D2-6B9494C1457F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FE5A407C-70D6-482E-BB10-3EE4E113C5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE5A407C-70D6-482E-BB10-3EE4E113C5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE5A407C-70D6-482E-BB10-3EE4E113C5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1507190-1AAE-4965-A9D2-6B9494C1457F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1507190-1AAE-4965-A9D2-6B9494C1457F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1507190-1AAE-4965-A9D2-6B9494C1457F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1507190-1AAE-4965-A9D2-6B9494C1457F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

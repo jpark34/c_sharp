@@ -1,0 +1,15 @@
+C:\Code\c_sharp\dotnet_youtube\StringReplace\bin\Debug\net8.0\StringReplace.exe
+C:\Code\c_sharp\dotnet_youtube\StringReplace\bin\Debug\net8.0\StringReplace.deps.json
+C:\Code\c_sharp\dotnet_youtube\StringReplace\bin\Debug\net8.0\StringReplace.runtimeconfig.json
+C:\Code\c_sharp\dotnet_youtube\StringReplace\bin\Debug\net8.0\StringReplace.dll
+C:\Code\c_sharp\dotnet_youtube\StringReplace\bin\Debug\net8.0\StringReplace.pdb
+C:\Code\c_sharp\dotnet_youtube\StringReplace\obj\Debug\net8.0\StringReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c_sharp\dotnet_youtube\StringReplace\obj\Debug\net8.0\StringReplace.AssemblyInfoInputs.cache
+C:\Code\c_sharp\dotnet_youtube\StringReplace\obj\Debug\net8.0\StringReplace.AssemblyInfo.cs
+C:\Code\c_sharp\dotnet_youtube\StringReplace\obj\Debug\net8.0\StringReplace.csproj.CoreCompileInputs.cache
+C:\Code\c_sharp\dotnet_youtube\StringReplace\obj\Debug\net8.0\StringReplace.sourcelink.json
+C:\Code\c_sharp\dotnet_youtube\StringReplace\obj\Debug\net8.0\StringReplace.dll
+C:\Code\c_sharp\dotnet_youtube\StringReplace\obj\Debug\net8.0\refint\StringReplace.dll
+C:\Code\c_sharp\dotnet_youtube\StringReplace\obj\Debug\net8.0\StringReplace.pdb
+C:\Code\c_sharp\dotnet_youtube\StringReplace\obj\Debug\net8.0\StringReplace.genruntimeconfig.cache
+C:\Code\c_sharp\dotnet_youtube\StringReplace\obj\Debug\net8.0\ref\StringReplace.dll

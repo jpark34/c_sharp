@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Code\\c_sharp\\Strings\\Strings\\Strings.csproj": {}
+    "C:\\Code\\c_sharp\\dotnet_youtube\\StringReplace\\StringReplace.csproj": {}
   },
   "projects": {
-    "c:\\Code\\c_sharp\\Strings\\Strings\\Strings.csproj": {
+    "C:\\Code\\c_sharp\\dotnet_youtube\\StringReplace\\StringReplace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Code\\c_sharp\\Strings\\Strings\\Strings.csproj",
-        "projectName": "Strings",
-        "projectPath": "c:\\Code\\c_sharp\\Strings\\Strings\\Strings.csproj",
+        "projectUniqueName": "C:\\Code\\c_sharp\\dotnet_youtube\\StringReplace\\StringReplace.csproj",
+        "projectName": "StringReplace",
+        "projectPath": "C:\\Code\\c_sharp\\dotnet_youtube\\StringReplace\\StringReplace.csproj",
         "packagesPath": "C:\\Users\\jarre\\.nuget\\packages\\",
-        "outputPath": "c:\\Code\\c_sharp\\Strings\\Strings\\obj\\",
+        "outputPath": "C:\\Code\\c_sharp\\dotnet_youtube\\StringReplace\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jarre\\AppData\\Roaming\\NuGet\\NuGet.Config",

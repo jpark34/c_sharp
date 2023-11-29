@@ -12,4 +12,5 @@ Console.WriteLine("My friend is " + firstFriend + " and " + secondFriend);
 string trimFriend = "     Maria     ";
 string trimFront = firstFriend.TrimStart();
 string trimLast = firstFriend.TrimEnd();
+string trimed = trimFriend.Trim();
 Console.WriteLine($"Trim extra characters {firstFriend.Trim()}");
