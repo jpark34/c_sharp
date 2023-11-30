@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "..\Strings\Strin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReplace", "..\dotnet_youtube\StringReplace\StringReplace.csproj", "{F1507190-1AAE-4965-A9D2-6B9494C1457F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "..\dotnet_youtube\Numbers\Numbers.csproj", "{BB9D2B51-D9D8-4719-AB4A-6442CAF0A3EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F1507190-1AAE-4965-A9D2-6B9494C1457F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1507190-1AAE-4965-A9D2-6B9494C1457F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1507190-1AAE-4965-A9D2-6B9494C1457F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9D2B51-D9D8-4719-AB4A-6442CAF0A3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9D2B51-D9D8-4719-AB4A-6442CAF0A3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9D2B51-D9D8-4719-AB4A-6442CAF0A3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9D2B51-D9D8-4719-AB4A-6442CAF0A3EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

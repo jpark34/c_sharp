@@ -1,0 +1,15 @@
+C:\Code\c_sharp\dotnet_youtube\Numbers\bin\Debug\net8.0\Numbers.exe
+C:\Code\c_sharp\dotnet_youtube\Numbers\bin\Debug\net8.0\Numbers.deps.json
+C:\Code\c_sharp\dotnet_youtube\Numbers\bin\Debug\net8.0\Numbers.runtimeconfig.json
+C:\Code\c_sharp\dotnet_youtube\Numbers\bin\Debug\net8.0\Numbers.dll
+C:\Code\c_sharp\dotnet_youtube\Numbers\bin\Debug\net8.0\Numbers.pdb
+C:\Code\c_sharp\dotnet_youtube\Numbers\obj\Debug\net8.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c_sharp\dotnet_youtube\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfoInputs.cache
+C:\Code\c_sharp\dotnet_youtube\Numbers\obj\Debug\net8.0\Numbers.AssemblyInfo.cs
+C:\Code\c_sharp\dotnet_youtube\Numbers\obj\Debug\net8.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Code\c_sharp\dotnet_youtube\Numbers\obj\Debug\net8.0\Numbers.sourcelink.json
+C:\Code\c_sharp\dotnet_youtube\Numbers\obj\Debug\net8.0\Numbers.dll
+C:\Code\c_sharp\dotnet_youtube\Numbers\obj\Debug\net8.0\refint\Numbers.dll
+C:\Code\c_sharp\dotnet_youtube\Numbers\obj\Debug\net8.0\Numbers.pdb
+C:\Code\c_sharp\dotnet_youtube\Numbers\obj\Debug\net8.0\Numbers.genruntimeconfig.cache
+C:\Code\c_sharp\dotnet_youtube\Numbers\obj\Debug\net8.0\ref\Numbers.dll
