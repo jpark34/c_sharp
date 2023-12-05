@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReplace", "..\dotnet_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "..\dotnet_youtube\Numbers\Numbers.csproj", "{BB9D2B51-D9D8-4719-AB4A-6442CAF0A3EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "..\dotnet_youtube\Conditionals\Conditionals.csproj", "{90818524-B6C7-444F-AB0E-57AEAEFC906D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "..\dotnet_youtube\Loops\Loops.csproj", "{DA7707C3-1941-48A8-835D-177ACCA53554}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{BB9D2B51-D9D8-4719-AB4A-6442CAF0A3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB9D2B51-D9D8-4719-AB4A-6442CAF0A3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB9D2B51-D9D8-4719-AB4A-6442CAF0A3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90818524-B6C7-444F-AB0E-57AEAEFC906D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90818524-B6C7-444F-AB0E-57AEAEFC906D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90818524-B6C7-444F-AB0E-57AEAEFC906D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90818524-B6C7-444F-AB0E-57AEAEFC906D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7707C3-1941-48A8-835D-177ACCA53554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7707C3-1941-48A8-835D-177ACCA53554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7707C3-1941-48A8-835D-177ACCA53554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7707C3-1941-48A8-835D-177ACCA53554}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

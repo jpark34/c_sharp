@@ -1,0 +1,15 @@
+C:\Code\c_sharp\dotnet_youtube\Conditionals\bin\Debug\net8.0\Conditionals.exe
+C:\Code\c_sharp\dotnet_youtube\Conditionals\bin\Debug\net8.0\Conditionals.deps.json
+C:\Code\c_sharp\dotnet_youtube\Conditionals\bin\Debug\net8.0\Conditionals.runtimeconfig.json
+C:\Code\c_sharp\dotnet_youtube\Conditionals\bin\Debug\net8.0\Conditionals.dll
+C:\Code\c_sharp\dotnet_youtube\Conditionals\bin\Debug\net8.0\Conditionals.pdb
+C:\Code\c_sharp\dotnet_youtube\Conditionals\obj\Debug\net8.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c_sharp\dotnet_youtube\Conditionals\obj\Debug\net8.0\Conditionals.AssemblyInfoInputs.cache
+C:\Code\c_sharp\dotnet_youtube\Conditionals\obj\Debug\net8.0\Conditionals.AssemblyInfo.cs
+C:\Code\c_sharp\dotnet_youtube\Conditionals\obj\Debug\net8.0\Conditionals.csproj.CoreCompileInputs.cache
+C:\Code\c_sharp\dotnet_youtube\Conditionals\obj\Debug\net8.0\Conditionals.sourcelink.json
+C:\Code\c_sharp\dotnet_youtube\Conditionals\obj\Debug\net8.0\Conditionals.dll
+C:\Code\c_sharp\dotnet_youtube\Conditionals\obj\Debug\net8.0\refint\Conditionals.dll
+C:\Code\c_sharp\dotnet_youtube\Conditionals\obj\Debug\net8.0\Conditionals.pdb
+C:\Code\c_sharp\dotnet_youtube\Conditionals\obj\Debug\net8.0\Conditionals.genruntimeconfig.cache
+C:\Code\c_sharp\dotnet_youtube\Conditionals\obj\Debug\net8.0\ref\Conditionals.dll

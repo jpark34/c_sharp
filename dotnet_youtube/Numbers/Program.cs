@@ -10,3 +10,14 @@ long c = (long)a + b;
 long c = checked(a + b);
 
 Console.WriteLine(c);
+
+
+// you must give C# explicit types
+double d = 18.234; // natural type
+float e = 15.65F;
+// cast a number
+int f = (int) 17.1;
+// can get more accurate with a decimal type
+decimal g = 38.65M; // exclusive type
+
+Console.WriteLine($"The answer is {g}");
