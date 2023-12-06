@@ -1,0 +1,15 @@
+C:\Code\c_sharp\dotnet_youtube\ManageData\bin\Debug\net8.0\ManageData.exe
+C:\Code\c_sharp\dotnet_youtube\ManageData\bin\Debug\net8.0\ManageData.deps.json
+C:\Code\c_sharp\dotnet_youtube\ManageData\bin\Debug\net8.0\ManageData.runtimeconfig.json
+C:\Code\c_sharp\dotnet_youtube\ManageData\bin\Debug\net8.0\ManageData.dll
+C:\Code\c_sharp\dotnet_youtube\ManageData\bin\Debug\net8.0\ManageData.pdb
+C:\Code\c_sharp\dotnet_youtube\ManageData\obj\Debug\net8.0\ManageData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c_sharp\dotnet_youtube\ManageData\obj\Debug\net8.0\ManageData.AssemblyInfoInputs.cache
+C:\Code\c_sharp\dotnet_youtube\ManageData\obj\Debug\net8.0\ManageData.AssemblyInfo.cs
+C:\Code\c_sharp\dotnet_youtube\ManageData\obj\Debug\net8.0\ManageData.csproj.CoreCompileInputs.cache
+C:\Code\c_sharp\dotnet_youtube\ManageData\obj\Debug\net8.0\ManageData.sourcelink.json
+C:\Code\c_sharp\dotnet_youtube\ManageData\obj\Debug\net8.0\ManageData.dll
+C:\Code\c_sharp\dotnet_youtube\ManageData\obj\Debug\net8.0\refint\ManageData.dll
+C:\Code\c_sharp\dotnet_youtube\ManageData\obj\Debug\net8.0\ManageData.pdb
+C:\Code\c_sharp\dotnet_youtube\ManageData\obj\Debug\net8.0\ManageData.genruntimeconfig.cache
+C:\Code\c_sharp\dotnet_youtube\ManageData\obj\Debug\net8.0\ref\ManageData.dll

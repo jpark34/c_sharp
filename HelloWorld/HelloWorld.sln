@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "..\dotnet_y
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "..\dotnet_youtube\Loops\Loops.csproj", "{DA7707C3-1941-48A8-835D-177ACCA53554}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageData", "..\dotnet_youtube\ManageData\ManageData.csproj", "{0E76CE93-AC13-45E5-BB7B-6522D6F27629}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{DA7707C3-1941-48A8-835D-177ACCA53554}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA7707C3-1941-48A8-835D-177ACCA53554}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA7707C3-1941-48A8-835D-177ACCA53554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E76CE93-AC13-45E5-BB7B-6522D6F27629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E76CE93-AC13-45E5-BB7B-6522D6F27629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E76CE93-AC13-45E5-BB7B-6522D6F27629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E76CE93-AC13-45E5-BB7B-6522D6F27629}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
