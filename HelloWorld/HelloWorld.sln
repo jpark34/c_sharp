@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "..\dotnet_youtube\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageData", "..\dotnet_youtube\ManageData\ManageData.csproj", "{0E76CE93-AC13-45E5-BB7B-6522D6F27629}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingList", "..\dotnet_youtube\SortingList\SortingList.csproj", "{FCFBB6D1-BC22-48CB-B6E6-9AEF8DAF0631}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{0E76CE93-AC13-45E5-BB7B-6522D6F27629}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E76CE93-AC13-45E5-BB7B-6522D6F27629}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E76CE93-AC13-45E5-BB7B-6522D6F27629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCFBB6D1-BC22-48CB-B6E6-9AEF8DAF0631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFBB6D1-BC22-48CB-B6E6-9AEF8DAF0631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFBB6D1-BC22-48CB-B6E6-9AEF8DAF0631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFBB6D1-BC22-48CB-B6E6-9AEF8DAF0631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

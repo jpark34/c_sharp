@@ -1,0 +1,15 @@
+C:\Code\c_sharp\dotnet_youtube\SortingList\bin\Debug\net8.0\SortingList.exe
+C:\Code\c_sharp\dotnet_youtube\SortingList\bin\Debug\net8.0\SortingList.deps.json
+C:\Code\c_sharp\dotnet_youtube\SortingList\bin\Debug\net8.0\SortingList.runtimeconfig.json
+C:\Code\c_sharp\dotnet_youtube\SortingList\bin\Debug\net8.0\SortingList.dll
+C:\Code\c_sharp\dotnet_youtube\SortingList\bin\Debug\net8.0\SortingList.pdb
+C:\Code\c_sharp\dotnet_youtube\SortingList\obj\Debug\net8.0\SortingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c_sharp\dotnet_youtube\SortingList\obj\Debug\net8.0\SortingList.AssemblyInfoInputs.cache
+C:\Code\c_sharp\dotnet_youtube\SortingList\obj\Debug\net8.0\SortingList.AssemblyInfo.cs
+C:\Code\c_sharp\dotnet_youtube\SortingList\obj\Debug\net8.0\SortingList.csproj.CoreCompileInputs.cache
+C:\Code\c_sharp\dotnet_youtube\SortingList\obj\Debug\net8.0\SortingList.sourcelink.json
+C:\Code\c_sharp\dotnet_youtube\SortingList\obj\Debug\net8.0\SortingList.dll
+C:\Code\c_sharp\dotnet_youtube\SortingList\obj\Debug\net8.0\refint\SortingList.dll
+C:\Code\c_sharp\dotnet_youtube\SortingList\obj\Debug\net8.0\SortingList.pdb
+C:\Code\c_sharp\dotnet_youtube\SortingList\obj\Debug\net8.0\SortingList.genruntimeconfig.cache
+C:\Code\c_sharp\dotnet_youtube\SortingList\obj\Debug\net8.0\ref\SortingList.dll

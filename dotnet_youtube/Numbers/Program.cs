@@ -7,7 +7,7 @@ long b = 6;
 // coerce the int into a long to allow for 
 long c = (long)a + b;
 // checked() function throws an error if the math can not be completed
-long c = checked(a + b);
+// long c = checked(a + b);
 
 Console.WriteLine(c);
 
